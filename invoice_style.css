@@ -1,0 +1,20 @@
+:root{
+  --doc-w:210mm; --pad:10mm;
+  --ink:#0f172a; --muted:#64748b; --line:#e5e7eb; --bg:#fff;
+  --font:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+
+  /* ==== RED BRAND THEME ==== */
+  --accent-50:#fef2f2;
+  --accent-100:#fee2e2;
+  --accent-200:#fecaca;
+  --accent-300:#fca5a5;
+  --accent-400:#f87171;
+  --accent-500:#ef4444; /* primary red */
+  --accent-600:#dc2626; /* hover/active */
+  --accent-700:#b91c1c; /* emphasis */
+  --accent-800:#991b1b;
+  --accent-900:#7f1d1d;
+  --surface:#fff7f7;
+  --black:#000;
+}
+/* ...paste your full CSS from your red invoice file... */
